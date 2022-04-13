@@ -22,7 +22,7 @@ Adicionar input para habilidades✔️
 
 Adicionar input antecedentes✔️
 
-Adicionar inputs de defesas
+Adicionar inputs de defesas✔️
 
 Automatizar inputs de defesas
 
